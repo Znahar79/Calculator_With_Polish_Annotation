@@ -1,0 +1,28 @@
+C:\Users\Артем\Documents\Visual Studio 2017\Projects\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Артем\Documents\Visual Studio 2017\Projects\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Артем\Documents\Visual Studio 2017\Projects\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Артем\Documents\Visual Studio 2017\Projects\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2017\Projects\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Documents\Visual Studio 2017\Projects\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Артем\Documents\Visual Studio 2017\Projects\Calc\Calc\obj\Debug\Calc.pdb
+\\vc.miet.ru\space\Profiles\8161083\Desktop\Calc\Calc\bin\Debug\Calc.exe.config
+\\vc.miet.ru\space\Profiles\8161083\Desktop\Calc\Calc\bin\Debug\Calc.exe
+\\vc.miet.ru\space\Profiles\8161083\Desktop\Calc\Calc\bin\Debug\Calc.pdb
+\\vc.miet.ru\space\Profiles\8161083\Desktop\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+\\vc.miet.ru\space\Profiles\8161083\Desktop\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+\\vc.miet.ru\space\Profiles\8161083\Desktop\Calc\Calc\obj\Debug\Calc.exe
+\\vc.miet.ru\space\Profiles\8161083\Desktop\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\Asus1\Desktop\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Asus1\Desktop\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Asus1\Desktop\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Asus1\Desktop\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\Asus1\Desktop\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Asus1\Desktop\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Asus1\Desktop\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\Артем\Desktop\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Артем\Desktop\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Артем\Desktop\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Артем\Desktop\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\Артем\Desktop\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Артем\Desktop\Calc\Calc\obj\Debug\Calc.pdb
